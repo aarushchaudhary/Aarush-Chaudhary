@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @aarushchaudhary
-- 👀 I’m interested in - Python and Flutter
-- 🌱 I’m currently learning - Python and C++
+- 👀 I’m interested in - C++, Python, R
+- 🌱 I’m currently learning - R
 - 💞️ I’m looking to collaborate on - Python Projects
